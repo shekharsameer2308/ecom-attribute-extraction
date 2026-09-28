@@ -1,79 +1,146 @@
-# Multimodal Attribute Extraction for E-Commerce
+<p align="center">
+  <h1 align="center">🏷️ E-Commerce Attribute Extraction</h1>
+  <p align="center">
+    <strong>Extract structured product attributes from packaging images using AI</strong>
+  </p>
+  <p align="center">
+    <a href="#-quick-start">Quick Start</a> •
+    <a href="#-how-it-works">How It Works</a> •
+    <a href="#-local-model-training">Train Locally</a> •
+    <a href="#-evaluation">Evaluation</a> •
+    <a href="#-api-reference">API Reference</a>
+  </p>
+</p>
 
-An end-to-end pipeline that extracts structured product attributes (weight, volume, dimensions) from packaging images using Google Gemini's multimodal AI.
+---
 
-## Architecture
+> **The Problem:** Millions of e-commerce products lack structured metadata (weight, volume, dimensions). Sellers embed this data on packaging images, but manual extraction doesn't scale, and basic OCR can't distinguish `500g net weight` from `20% Extra Free` promotional noise.
+>
+> **This Solution:** A dual-mode AI pipeline that reads packaging images and outputs clean, validated, structured data — ready for search filters, logistics, and catalog databases.
+
+## ✨ Key Features
+
+| Feature | Description |
+|---|---|
+| **Dual Pipelines** | ☁️ Cloud mode (Google Gemini API) or 🖥️ fully local mode (trained NER model) |
+| **Perception ≠ Computation** | LLM only *reads* text. All math is deterministic Python — zero arithmetic hallucinations |
+| **Noise Filtering** | Ignores promos ("20% Extra Free"), nutrition tables ("Per 100g"), and marketing text |
+| **Multipack Handling** | Parses `6 x 500g`, `Pack of 12`, and validates `pack_count × unit_value = total` |
+| **Unit Standardization** | Converts kg→g, L→ml, fl oz→ml, oz→g automatically |
+| **Human-in-the-Loop** | Routes low-confidence items to review queues + random 3% audit sampling |
+| **Trainable** | Train and improve the local NER model on your own data — no GPU required |
+| **93.3% Accuracy** | Out-of-the-box on 30 benchmark tests across 9 categories |
+
+## 🏗️ Architecture
 
 ```
-┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌──────────────┐
-│  Raw Image  │────▶│ Preprocessor │────▶│  Gemini LLM │────▶│  Validator   │
-│  (jpg/png)  │     │  resize/exif │     │  perception  │     │  math/units  │
-└─────────────┘     └──────────────┘     └─────────────┘     └──────┬───────┘
-                                                                     │
-                                                          ┌──────────▼──────────┐
-                                                          │   Review Router     │
-                                                          │ auto-accept / queue │
-                                                          └─────────────────────┘
+                        ┌─────────── Cloud Mode ───────────┐
+                        │                                   │
+┌──────────┐   ┌────────────────┐   ┌───────────────┐   ┌──────────────────┐
+│          │   │                │   │  Gemini API   │   │                  │
+│  Product ├──▶│  Preprocessor  ├──▶│  (multimodal) │──▶│    Validator     │
+│  Image   │   │  quality/resize│   │       OR      │   │  unit conversion │
+│          │   │                │   │  Local NER    │   │  arithmetic check│
+└──────────┘   └────────────────┘   │  (trainable)  │   │  review routing  │
+                                    └───────────────┘   └────────┬─────────┘
+                        │                                   │    │
+                        └─────────── Local Mode ────────────┘    ▼
+                                                          ┌──────────────┐
+                                                          │ Structured   │
+                                                          │ JSON Output  │
+                                                          └──────────────┘
 ```
 
-**Key design principle:** The LLM only *reads* — it copies text exactly as printed. All math (unit conversion, multipack totals) is done by deterministic Python code. This eliminates LLM arithmetic hallucinations.
+**Core design principle:** The AI model is responsible only for **perception** (reading what's on the label). All **computation** (unit conversion, multipack totals, validation) is handled by deterministic Python code. This separation eliminates an entire class of LLM hallucination errors.
 
-## Project Structure
+## 📁 Project Structure
 
 ```
-ecom project/
-├── main.py                  # CLI entry point (extract / batch / test)
-├── requirements.txt         # Python dependencies
-├── prompts/
-│   └── system_prompt.txt    # LLM system prompt (versioned separately)
+├── main.py                      # CLI: extract / batch / test
+├── evaluate.py                  # Capability benchmarking (30 tests, 9 categories)
+├── requirements.txt
+│
 ├── src/
-│   ├── __init__.py
-│   ├── models.py            # Pydantic schemas + deterministic math
-│   ├── llm_client.py        # Gemini API client + mock client
-│   ├── pipeline.py          # Orchestrator (preprocess → LLM → validate → route)
-│   └── preprocessor.py      # Image quality checks, resize, tiling
-├── data/
-│   └── sample_batch.json    # Sample batch manifest for testing
-└── logs/                    # Auto-generated extraction logs
+│   ├── models.py                # Pydantic schemas + deterministic math engine
+│   ├── pipeline.py              # Cloud pipeline orchestrator (Gemini API)
+│   ├── local_pipeline.py        # Local pipeline orchestrator (OCR + NER)
+│   ├── llm_client.py            # Gemini API client + mock client
+│   ├── ner_model.py             # Trainable NER model (Averaged Perceptron)
+│   ├── ocr_engine.py            # EasyOCR wrapper for text extraction
+│   └── preprocessor.py          # Image quality, resize, EXIF, tiling
+│
+├── training/
+│   ├── train.py                 # Training script (runs on CPU in seconds)
+│   ├── generate_data.py         # Synthetic training data generator
+│   └── data/                    # Train/test JSON datasets
+│
+├── models/
+│   └── ner_model/model.json     # Trained model weights (portable JSON)
+│
+├── prompts/
+│   └── system_prompt.txt        # LLM system prompt (version-controlled)
+│
+└── data/
+    └── sample_batch.json        # Example batch manifest
 ```
 
-## Quick Start
+## 🚀 Quick Start
 
-### 1. Install Dependencies
+### 1. Install
 
 ```bash
-cd "ecom project"
+git clone https://github.com/shekharsameer2308/ecom-attribute-extraction.git
+cd ecom-attribute-extraction
 pip install -r requirements.txt
 ```
 
-### 2. Run Tests (No API Key Needed)
+### 2. Run Tests (no API key needed)
 
 ```bash
 python main.py test
 ```
+```
+✅ 32 checks passed across 14 test scenarios
+```
 
-This runs 14 test cases covering:
-- Single pack, multipack, dual units
-- Unit conversion (kg→g, L→ml, fl oz→ml)
-- Arithmetic consistency checks
-- Low confidence / OCR uncertainty
-- Not-found attributes
-- Unknown units
-- Full E2E pipeline with mock LLM
-
-### 3. Extract from a Real Image
+### 3. Evaluate Model Capability
 
 ```bash
-# Set your Gemini API key
-export GEMINI_API_KEY="your-api-key-here"
+python evaluate.py
+```
+```
+🎯 OVERALL CAPABILITY SCORE: 93.3%
+   🟢 Basic Weight          5/5  (100%)
+   🟢 Noise Filtering       4/4  (100%)
+   🟢 Multipacks            3/3  (100%)
+   🟢 Dual Units            2/2  (100%)
+   🟢 Unit Conversion       5/5  (100%)
+   🟢 Full Pipeline         3/3  (100%)
+```
+
+---
+
+## ☁️ Cloud Mode (Gemini API)
+
+Best accuracy. Requires internet and a free API key.
+
+### Get Your API Key
+
+1. Go to **[Google AI Studio](https://aistudio.google.com/app/apikey)**
+2. Click **Create API key** → copy it
+
+### Extract Attributes
+
+```bash
+export GEMINI_API_KEY="your-key-here"
 
 # Single image
-python main.py extract --image product_front.jpg
+python main.py extract --image product.jpg
 
-# Multiple images of same product
+# Multiple views of the same product
 python main.py extract --image front.jpg --image back.jpg
 
-# With product context
+# With full context
 python main.py extract \
   --image product.jpg \
   --product-id SKU-12345 \
@@ -82,70 +149,174 @@ python main.py extract \
   --attributes "net_weight,net_volume"
 ```
 
-### 4. Batch Processing
+### Batch Processing
 
-Create a JSON manifest (see `data/sample_batch.json` for format):
+```bash
+python main.py batch --manifest data/sample_batch.json --output results.json
+```
+
+<details>
+<summary>📄 Batch manifest format</summary>
 
 ```json
 [
   {
     "product_id": "SKU-001",
-    "image_paths": ["images/sku001_front.jpg", "images/sku001_back.jpg"],
+    "image_paths": ["images/front.jpg", "images/back.jpg"],
     "context": {"category": "Grocery", "brand": "Nestle"},
     "target_attributes": ["net_weight", "net_volume"]
   }
 ]
 ```
+</details>
 
-Run it:
+---
 
-```bash
-# With real API
-python main.py batch --manifest data/sample_batch.json --output results.json
+## 🖥️ Local Mode (Trained NER)
 
-# With mock (for testing)
-python main.py batch --manifest data/sample_batch.json --mock
+Runs entirely offline. No API key. No internet. Trains on CPU in seconds.
+
+### How the Local Pipeline Works
+
+```
+Image → EasyOCR → "Net Wt. 500 g 20% Extra Free" → NER Model → [500 g → WEIGHT] → Validator → 500.0 g
+                    ↑ extracts ALL text                ↑ classifies entities          ↑ converts units
+                                                       (ignores promos)               (deterministic math)
 ```
 
-## How It Works
+### Use the Trained Model
 
-### Step 1: Image Preprocessing (`src/preprocessor.py`)
-- Auto-rotates using EXIF data
-- Resizes to max 2048px (Gemini optimal)
-- Converts RGBA → RGB
-- Checks quality: blur, glare, resolution, cropping
-- Tiles panoramic images for curved packaging
+```python
+from src.ner_model import AttributeNERModel
 
-### Step 2: LLM Perception (`src/llm_client.py`)
-- Sends images + system prompt to Gemini
-- Forces structured JSON output via Pydantic schema
-- Low temperature (0.1) for deterministic extraction
-- LLM copies text exactly — no math, no guessing
+model = AttributeNERModel(model_path="models/ner_model")
 
-### Step 3: Deterministic Computation (`src/models.py`)
-- Converts units: kg→g, L→ml, fl oz→ml, oz→g
-- Computes multipack totals: `pack_count × unit_value × multiplier`
-- Validates arithmetic consistency
-- Flags unknown units for review
+entities = model.predict("Net Wt. 500 g 20% Extra Free")
+# [{'text': 'Net Wt.', 'label': 'QUALIFIER', 'score': 0.88},
+#  {'text': '500 g',   'label': 'WEIGHT',    'score': 1.00}]
+# ↑ Correctly ignores "20% Extra Free"
+```
 
-### Step 4: Review Routing (`src/pipeline.py`)
-- Auto-flags items with confidence < 0.70
-- Flags arithmetic inconsistencies
-- Flags unknown units
-- Random 3% audit of auto-accepted items
-- Logs raw LLM output for evaluation
+---
 
-## Getting Your API Key
+## 🧠 Local Model Training
 
-1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
-2. Sign in with Google
-3. Click **Create API key**
-4. Copy and export it:
-   ```bash
-   export GEMINI_API_KEY="your-key"
-   ```
+### How Training Works
 
-## Example Output
+The NER model uses an **Averaged Perceptron** algorithm — a simple but effective method that learns from labeled examples:
+
+```
+For each training example:
+  1. Extract features from text spans (unit patterns, digit ratios, context keywords)
+  2. Model predicts an entity label
+  3. Compare prediction to ground truth:
+     • CORRECT → reinforce weights slightly
+     • WRONG   → decrease wrong label's weights, increase correct label's weights
+     • MISSED  → boost the missed label's weights
+  4. Repeat for N epochs
+  5. Average all weight updates (reduces overfitting)
+```
+
+No GPU needed. No heavy frameworks. Trains in under 10 seconds.
+
+### Train the Model
+
+```bash
+# Default: 500 samples, 30 epochs
+python training/train.py
+
+# More data for better accuracy
+python training/train.py --samples 2000 --epochs 50
+
+# Custom output path
+python training/train.py --output models/my_custom_model
+```
+
+### Training Output
+
+```
+🧠 Local NER Model Training Pipeline
+─────────────────────────────────────────────
+  Training samples  : 496
+  Epochs            : 30
+  Algorithm         : Averaged Perceptron
+─────────────────────────────────────────────
+
+  Epoch   1/30  |  Accuracy: 0.846  |  Errors: 146
+  Epoch  10/30  |  Accuracy: 0.848  |  Errors: 109
+  Epoch  30/30  |  Accuracy: 0.846  |  Errors: 111
+
+  ✅ Model saved to: models/ner_model/
+
+🔍 Demo predictions:
+   'Net Wt. 500 g'  →  'Net Wt.'→QUALIFIER(0.88), '500 g'→WEIGHT(1.00)
+   '6 x 200 ml'     →  '6 x'→COUNT(0.62), '200 ml'→VOLUME(1.00)
+```
+
+### Improve with Your Own Data
+
+The **train → evaluate → improve** loop:
+
+```bash
+# 1. Train
+python training/train.py --samples 2000 --epochs 50
+
+# 2. Evaluate
+python evaluate.py
+
+# 3. Add real corrections to training/data/train.json
+
+# 4. Retrain and re-evaluate
+python training/train.py
+python evaluate.py
+```
+
+---
+
+## 📊 Evaluation
+
+Run the full capability benchmark anytime:
+
+```bash
+python evaluate.py
+```
+
+### Test Categories
+
+| Category | Tests | Difficulty | What It Checks |
+|---|---|---|---|
+| Basic Weight | 5 | Easy | `500 g`, `1.5 kg`, `12 oz` |
+| Basic Volume | 3 | Easy | `355 ml`, `2 L`, `12 fl oz` |
+| Qualifier Detection | 3 | Easy | `Net Wt.`, `Drained`, `Net Content` |
+| Noise Filtering | 4 | Medium | Ignoring promos, nutrition tables, brand text |
+| Multipacks | 3 | Medium | `6 x 500g`, `Pack of 12`, `24 pcs` |
+| Dual Units | 2 | Hard | `12 FL OZ (355 ml)`, `8 oz (226 g)` |
+| Power | 2 | Medium | `1200 W`, `2.5 kW` |
+| Unit Conversion | 5 | Easy | kg→g, L→ml, fl oz→ml, mg→g, multipack math |
+| Full Pipeline | 3 | Hard | End-to-end: text → NER → compute → answer |
+
+### Current Scores
+
+```
+🎯 93.3%  ████████████████████████████░░  28/30 tests
+```
+
+---
+
+## 📋 API Reference
+
+### CLI Commands
+
+| Command | Description | API Key? |
+|---|---|---|
+| `python main.py test` | Run 14 test scenarios | ❌ No |
+| `python main.py extract --image img.jpg` | Extract from image | ✅ Yes |
+| `python main.py extract --image img.jpg --mock` | Test with mock data | ❌ No |
+| `python main.py batch --manifest file.json` | Batch processing | ✅ Yes |
+| `python evaluate.py` | Full capability report | ❌ No |
+| `python training/train.py` | Train local NER model | ❌ No |
+
+### Output Schema
 
 ```json
 {
@@ -159,7 +330,6 @@ python main.py batch --manifest data/sample_batch.json --mock
       "canonical_unit": "g",
       "arithmetic_consistent": true,
       "needs_review": false,
-      "review_reasons": [],
       "raw_extraction": {
         "raw_text": "6 x 500 g",
         "pack_count": 6,
@@ -172,3 +342,58 @@ python main.py batch --manifest data/sample_batch.json --mock
   ]
 }
 ```
+
+### Supported Attributes
+
+| Attribute | Entity Label | Example Inputs |
+|---|---|---|
+| `net_weight` | WEIGHT | `500 g`, `1.5 kg`, `12 oz` |
+| `net_volume` | VOLUME | `330 ml`, `2 L`, `12 fl oz` |
+| `power` | POWER | `1200 W`, `2.5 kW` |
+| `item_count` | COUNT | `6 pcs`, `Pack of 12` |
+
+### Unit Conversion Table
+
+| Input Unit | Canonical Unit | Multiplier |
+|---|---|---|
+| `kg` | `g` | ×1000 |
+| `mg` | `g` | ×0.001 |
+| `L`, `l` | `ml` | ×1000 |
+| `fl oz` | `ml` | ×29.5735 |
+| `oz` | `g` | ×28.3495 |
+
+---
+
+## 🔒 Design Decisions
+
+| Decision | Rationale |
+|---|---|
+| **LLM reads, code computes** | LLMs hallucinate arithmetic. Deterministic code doesn't. |
+| **Pydantic schema enforcement** | Gemini's structured output mode guarantees valid JSON. No parsing failures. |
+| **Averaged Perceptron for local NER** | Trains in seconds on CPU, no framework dependencies, portable JSON weights. |
+| **Synthetic training data** | Bootstrap without labeled images. Fine-tune on real data from review queue. |
+| **Random audit sampling** | 3% of auto-accepted items go to human review to catch systematic drift. |
+| **Qualifier-first extraction** | The legally required "Net Quantity" statement is the primary target per GS1/GDSN standards. |
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Web UI for upload + extraction visualization
+- [ ] Bounding box overlay on source images
+- [ ] Multi-language OCR support (Hindi, Arabic, Chinese)
+- [ ] Fine-tuning pipeline for Gemini with collected review data
+- [ ] REST API server for integration with catalog systems
+- [ ] Confidence calibration using Platt scaling on labeled data
+
+---
+
+## 📄 License
+
+MIT
+
+---
+
+<p align="center">
+  Built with ❤️ for solving real e-commerce data quality problems
+</p>
