@@ -1,0 +1,31 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & processed outputs
+logs/
+data/batch_results.json
+results.json
+
+# Processed images
+*_processed.jpg
+*_tile_*.jpg
+
+# API keys (NEVER commit these)
+.env

@@ -1,0 +1,10 @@
+# Core
+pydantic>=2.0.0
+pillow>=10.0.0
+
+# Gemini API (for cloud pipeline)
+google-genai>=0.3.0
+
+# Local ML pipeline
+spacy>=3.5.0
+easyocr>=1.7.0

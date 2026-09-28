@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "SINGLE-cereal-001",
+    "image_paths": [],
+    "context": {"category": "Grocery > Cereals", "brand": "Kelloggs"},
+    "target_attributes": ["net_weight"]
+  },
+  {
+    "product_id": "MULTI-water-002",
+    "image_paths": [],
+    "context": {"category": "Beverages > Water", "brand": "Aquafina"},
+    "target_attributes": ["net_weight", "net_volume"]
+  },
+  {
+    "product_id": "DUAL-soda-003",
+    "image_paths": [],
+    "context": {"category": "Beverages > Carbonated", "brand": "Coca-Cola"},
+    "target_attributes": ["net_volume"]
+  },
+  {
+    "product_id": "BLURRY-chips-004",
+    "image_paths": [],
+    "context": {"category": "Grocery > Snacks", "brand": "Lays"},
+    "target_attributes": ["net_weight"]
+  },
+  {
+    "product_id": "NOTFOUND-soap-005",
+    "image_paths": [],
+    "context": {"category": "Personal Care", "brand": "Dove"},
+    "target_attributes": ["net_weight"]
+  }
+]

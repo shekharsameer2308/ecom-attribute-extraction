@@ -1,0 +1,7972 @@
+[
+  {
+    "text": "PepsiCo Mineral Water Net Wt. 150 g BOGO",
+    "entities": [
+      [
+        22,
+        29,
+        "QUALIFIER"
+      ],
+      [
+        30,
+        35,
+        "WEIGHT"
+      ],
+      [
+        36,
+        40,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Nestle Orange Juice 20% Extra Free Net Wt. 500 kg",
+    "entities": [
+      [
+        35,
+        42,
+        "QUALIFIER"
+      ],
+      [
+        43,
+        49,
+        "WEIGHT"
+      ],
+      [
+        20,
+        34,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 0.5 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Corn Flakes Limited Edition NET WT. 125 kg",
+    "entities": [
+      [
+        37,
+        44,
+        "QUALIFIER"
+      ],
+      [
+        45,
+        51,
+        "WEIGHT"
+      ],
+      [
+        21,
+        36,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Tata Basmati Rice BOGO Net Wt 150 g",
+    "entities": [
+      [
+        23,
+        29,
+        "QUALIFIER"
+      ],
+      [
+        30,
+        35,
+        "WEIGHT"
+      ],
+      [
+        18,
+        22,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 1000 mg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (175 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 200 L",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 500 g Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 600 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight typical 75 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        19,
+        24,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 8 (100 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 350 g",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (750 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 400 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 125 g P&G Green Tea 50% Extra",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ],
+      [
+        28,
+        37,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 250 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "12 x 100 kg",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 450 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power: 60 kW",
+    "entities": [
+      [
+        7,
+        12,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight avg. 300 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "ITC Mixed Fruit Jam Net Wt. 100 g 50% Extra",
+    "entities": [
+      [
+        20,
+        27,
+        "QUALIFIER"
+      ],
+      [
+        28,
+        33,
+        "WEIGHT"
+      ],
+      [
+        34,
+        43,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 3 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 250 L",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "PepsiCo Peanut Butter New Improved Formula Net Wt 75 kg",
+    "entities": [
+      [
+        43,
+        49,
+        "QUALIFIER"
+      ],
+      [
+        50,
+        55,
+        "WEIGHT"
+      ],
+      [
+        22,
+        42,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt avg. 100 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 400 g Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "4 x 400 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 20 fl oz (100 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 800 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 1 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 100 kg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 0.5 kg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "125 mg x 10",
+    "entities": [
+      [
+        9,
+        11,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Peanut Butter Family Pack Net Wt 250 kg",
+    "entities": [
+      [
+        35,
+        41,
+        "QUALIFIER"
+      ],
+      [
+        42,
+        48,
+        "WEIGHT"
+      ],
+      [
+        23,
+        34,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 750 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (750 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 300 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Rated Power: 2000 kW",
+    "entities": [
+      [
+        13,
+        20,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 300 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 750 l",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 75 g Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        15,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 50 l",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 75 g Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Haldiram's Peanut Butter BOGO Net Wt. 125 g",
+    "entities": [
+      [
+        30,
+        37,
+        "QUALIFIER"
+      ],
+      [
+        38,
+        43,
+        "WEIGHT"
+      ],
+      [
+        25,
+        29,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 175 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 300 g Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 75 g Britannia Tomato Ketchup Buy 1 Get 1 Free",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ],
+      [
+        38,
+        54,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 75 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 10 (150 kg each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 330 mL",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "500 mg x 2",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 75 g",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (600 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 200 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (750 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 150 ml",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 1 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        13,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 125 kg PepsiCo Floor Cleaner New Improved Formula",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ],
+      [
+        36,
+        56,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "50 kg x 3",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. approx. 400 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 3 ml",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        16,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 150 g Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 500 g Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 75 g Calories per serving: 150",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 450 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "5 x 1000 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Milk Chocolate Extra 50g Free Net Wt 400 kg",
+    "entities": [
+      [
+        39,
+        45,
+        "QUALIFIER"
+      ],
+      [
+        46,
+        52,
+        "WEIGHT"
+      ],
+      [
+        24,
+        38,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Tata Potato Chips Net Wt 50 g +100ml FREE",
+    "entities": [
+      [
+        18,
+        24,
+        "QUALIFIER"
+      ],
+      [
+        25,
+        29,
+        "WEIGHT"
+      ],
+      [
+        30,
+        41,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight average 300 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        19,
+        25,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (200 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight avg. 50 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (50 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net 1000 g",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Rated Power: 15 W",
+    "entities": [
+      [
+        13,
+        17,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "250 mg x 24",
+    "entities": [
+      [
+        9,
+        11,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Max Power 5 W",
+    "entities": [
+      [
+        10,
+        13,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 125 kg Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 250 g Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 1000 mg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 125 g Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 400 g",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt about 400 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Instant Noodles Net Wt 50 g Jumbo Size",
+    "entities": [
+      [
+        25,
+        31,
+        "QUALIFIER"
+      ],
+      [
+        32,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        47,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt approx. 75 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "250 mg x 8",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 400 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Britannia Orange Juice Net Wt. 400 g +100ml FREE",
+    "entities": [
+      [
+        23,
+        30,
+        "QUALIFIER"
+      ],
+      [
+        31,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Rated Power: 750 kW",
+    "entities": [
+      [
+        13,
+        19,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 400 kg Britannia Basmati Rice Save 30%",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ],
+      [
+        37,
+        45,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Britannia Instant Noodles Net Weight 125 kg Save 30%",
+    "entities": [
+      [
+        26,
+        36,
+        "QUALIFIER"
+      ],
+      [
+        37,
+        43,
+        "WEIGHT"
+      ],
+      [
+        44,
+        52,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 20 fl oz (100 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Coca-Cola Tomato Ketchup NET WT. 300 kg Save 30%",
+    "entities": [
+      [
+        25,
+        32,
+        "QUALIFIER"
+      ],
+      [
+        33,
+        39,
+        "WEIGHT"
+      ],
+      [
+        40,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 500 mg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 150 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 3 g",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 5 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "4 x 750 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 2000 W",
+    "entities": [
+      [
+        18,
+        24,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 75 kg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power: 7 kW",
+    "entities": [
+      [
+        7,
+        11,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 300 kg Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 300 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 1 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net 300 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "24 x 75 g",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 350 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 750 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 50 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        16,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 750 W",
+    "entities": [
+      [
+        18,
+        23,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 1.5 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 400 g Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 5 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 10 (1000 g each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 750 W",
+    "entities": [
+      [
+        18,
+        23,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (100 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 150 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 1.5 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 750 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 10 (150 g each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 1000 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        15,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Corn Flakes Net Wt. 50 g BOGO",
+    "entities": [
+      [
+        19,
+        26,
+        "QUALIFIER"
+      ],
+      [
+        27,
+        31,
+        "WEIGHT"
+      ],
+      [
+        32,
+        36,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 5 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (175 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 100 g Godrej Instant Noodles 50% Extra",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ],
+      [
+        36,
+        45,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 500 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 75 kg Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (150 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "10 x 750 kg",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 100 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 250 kg Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 100 W",
+    "entities": [
+      [
+        18,
+        23,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net 3 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 2 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        13,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 150 kg Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Basmati Rice Family Pack NET WT. 200 g",
+    "entities": [
+      [
+        32,
+        39,
+        "QUALIFIER"
+      ],
+      [
+        40,
+        45,
+        "WEIGHT"
+      ],
+      [
+        20,
+        31,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 1 L",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "400 g x 6",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. approximately 250 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        22,
+        28,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (300 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 300 g Unilever Face Cream 25% More",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ],
+      [
+        34,
+        42,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 500 kg Haldiram's Whole Wheat Atta Family Pack",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ],
+      [
+        42,
+        53,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt about 300 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "5 x 75 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "24 x 1000 g",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 400 mg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight about 125 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        17,
+        23,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 350 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "400 kg x 2",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. approx. 50 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 2 mL",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt typical 300 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 300 g Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (330 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net 100 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 3 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 300 kg Godrej Mixed Fruit Jam Extra 50g Free",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ],
+      [
+        38,
+        52,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (250 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight average 125 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        19,
+        25,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Kelloggs Instant Noodles Value Pack Net Weight 125 g",
+    "entities": [
+      [
+        36,
+        46,
+        "QUALIFIER"
+      ],
+      [
+        47,
+        52,
+        "WEIGHT"
+      ],
+      [
+        25,
+        35,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 1.5 ml",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net 350 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 400 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 330 L",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 50 g Calories per serving: 150",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (1.5 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 1.5 l",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. ~ 75 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        10,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Max Power 1200 kW",
+    "entities": [
+      [
+        10,
+        17,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt avg. 50 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 1 mL",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. average 300 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 2 L",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        7,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Amul Floor Cleaner Net Weight 200 kg Special Offer",
+    "entities": [
+      [
+        19,
+        29,
+        "QUALIFIER"
+      ],
+      [
+        30,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        50,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. ~ 75 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        10,
+        15,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "3 x 250 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Haldiram's Whole Wheat Atta NET WT. 250 g BOGO",
+    "entities": [
+      [
+        28,
+        35,
+        "QUALIFIER"
+      ],
+      [
+        36,
+        41,
+        "WEIGHT"
+      ],
+      [
+        42,
+        46,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 50 g Haldiram's Potato Chips Extra 50g Free",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ],
+      [
+        37,
+        51,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 250 ml",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight average 100 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        19,
+        25,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (50 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 2.5 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 300 kg Dabur Washing Powder Value Pack",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ],
+      [
+        39,
+        49,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 125 kg Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 3 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 250 kg Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 2 (150 mg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 100 kg Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 5 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight average 125 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        19,
+        25,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 75 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Nestle Potato Chips NET WT. 250 g Family Pack",
+    "entities": [
+      [
+        20,
+        27,
+        "QUALIFIER"
+      ],
+      [
+        28,
+        33,
+        "WEIGHT"
+      ],
+      [
+        34,
+        45,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt typical 75 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 50 kg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 200 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 200 kg Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 200 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. typical 400 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (1.5 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. ~ 75 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        10,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 100 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 2 (150 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 600 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (355 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 3 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 750 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 150 g Tata Peanut Butter Jumbo Size",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ],
+      [
+        33,
+        43,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Parle Floor Cleaner Net Weight 75 kg +100ml FREE",
+    "entities": [
+      [
+        20,
+        30,
+        "QUALIFIER"
+      ],
+      [
+        31,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt ~ 150 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. approx. 125 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        22,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (1.5 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt approx. 250 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 3 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 125 kg Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 100 g ITC Milk Chocolate Jumbo Size",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ],
+      [
+        32,
+        42,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 500 kg Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 750 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 800 mg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 355 L",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Max Power 100 kW",
+    "entities": [
+      [
+        10,
+        16,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 75 g Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 400 kg Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 150 g Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "500 kg x 6",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. average 125 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        22,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 3 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "PepsiCo Milk Chocolate 25% More NET WT. 150 kg",
+    "entities": [
+      [
+        32,
+        39,
+        "QUALIFIER"
+      ],
+      [
+        40,
+        46,
+        "WEIGHT"
+      ],
+      [
+        23,
+        31,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "12 x 75 g",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 10 kW",
+    "entities": [
+      [
+        18,
+        23,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "250 mg x 24",
+    "entities": [
+      [
+        9,
+        11,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Britannia Washing Powder Limited Edition NET WT. 75 kg",
+    "entities": [
+      [
+        41,
+        48,
+        "QUALIFIER"
+      ],
+      [
+        49,
+        54,
+        "WEIGHT"
+      ],
+      [
+        25,
+        40,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Whole Wheat Atta BOGO Net Weight 300 kg",
+    "entities": [
+      [
+        29,
+        39,
+        "QUALIFIER"
+      ],
+      [
+        40,
+        46,
+        "WEIGHT"
+      ],
+      [
+        24,
+        28,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt avg. 200 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "5 x 75 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "PepsiCo Hair Oil BOGO Net Wt. 50 kg",
+    "entities": [
+      [
+        22,
+        29,
+        "QUALIFIER"
+      ],
+      [
+        30,
+        35,
+        "WEIGHT"
+      ],
+      [
+        17,
+        21,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 500 g Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 4 (500 g each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 100 kg Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 150 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "5 x 500 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 150 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 300 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 300 g Nestle Floor Cleaner Limited Edition",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ],
+      [
+        35,
+        50,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Britannia Mixed Fruit Jam Net Wt. 50 kg Bonus Pack",
+    "entities": [
+      [
+        26,
+        33,
+        "QUALIFIER"
+      ],
+      [
+        34,
+        39,
+        "WEIGHT"
+      ],
+      [
+        40,
+        50,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 100 g",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 4 (75 g each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        15,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (2 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "150 kg x 24",
+    "entities": [
+      [
+        9,
+        11,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (250 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 250 kg Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 5 l",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        7,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Whole Wheat Atta Save 30% Net Wt 250 kg",
+    "entities": [
+      [
+        35,
+        41,
+        "QUALIFIER"
+      ],
+      [
+        42,
+        48,
+        "WEIGHT"
+      ],
+      [
+        26,
+        34,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 75 g Kelloggs Orange Juice Bonus Pack",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ],
+      [
+        35,
+        45,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 800 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (2 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 kg Himalaya Milk Chocolate Bonus Pack",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ],
+      [
+        39,
+        49,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 16 fl oz (250 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (330 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Haldiram's Whole Wheat Atta Bonus Pack Net Weight 75 kg",
+    "entities": [
+      [
+        39,
+        49,
+        "QUALIFIER"
+      ],
+      [
+        50,
+        55,
+        "WEIGHT"
+      ],
+      [
+        28,
+        38,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Washing Powder Limited Edition Net Weight 250 g",
+    "entities": [
+      [
+        40,
+        50,
+        "QUALIFIER"
+      ],
+      [
+        51,
+        56,
+        "WEIGHT"
+      ],
+      [
+        24,
+        39,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net 750 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 1 oz",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 100 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 12 (200 g each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "8 x 500 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Rated Power: 10 W",
+    "entities": [
+      [
+        13,
+        17,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 300 kg Parle Peanut Butter Family Pack",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ],
+      [
+        34,
+        45,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 24 (75 kg each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 10 mg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 3 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 250 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Amul Mixed Fruit Jam 20% Extra Free Net Wt 200 g",
+    "entities": [
+      [
+        36,
+        42,
+        "QUALIFIER"
+      ],
+      [
+        43,
+        48,
+        "WEIGHT"
+      ],
+      [
+        21,
+        35,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 10 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 2 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 2 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (50 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "10 x 50 kg",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 g Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 250 kg Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 450 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 100 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 3 L",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Hair Oil Buy 1 Get 1 Free Net Weight 125 g",
+    "entities": [
+      [
+        35,
+        45,
+        "QUALIFIER"
+      ],
+      [
+        46,
+        51,
+        "WEIGHT"
+      ],
+      [
+        18,
+        34,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (200 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 2.5 oz",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 200 g Kelloggs Tomato Ketchup Family Pack",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ],
+      [
+        37,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 500 g Haldiram's Orange Juice +100ml FREE",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ],
+      [
+        37,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 150 L",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 75 kg Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (150 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 2 l",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 175 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 75 g Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 2.5 kg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 6 (250 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 200 g Kelloggs Green Tea +100ml FREE",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ],
+      [
+        33,
+        44,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "200 g x 4",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 150 kg Parle Orange Juice Buy 1 Get 1 Free",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ],
+      [
+        33,
+        49,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (2 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 250 kg Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 4 (125 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 150 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "400 mg x 3",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power: 5 kW",
+    "entities": [
+      [
+        7,
+        11,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (355 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 450 oz",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 200 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt typical 300 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 300 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 12 (300 kg each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 355 mL",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 150 g Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 250 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "150 kg x 4",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 100 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 50 kg Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "8 x 125 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Tomato Ketchup Net Weight 100 g Extra 50g Free",
+    "entities": [
+      [
+        24,
+        34,
+        "QUALIFIER"
+      ],
+      [
+        35,
+        40,
+        "WEIGHT"
+      ],
+      [
+        41,
+        55,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 300 g Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 150 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 300 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 2 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 3 g",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Nestle Whole Wheat Atta New Improved Formula Net Weight 100 kg",
+    "entities": [
+      [
+        45,
+        55,
+        "QUALIFIER"
+      ],
+      [
+        56,
+        62,
+        "WEIGHT"
+      ],
+      [
+        24,
+        44,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (200 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 200 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 12 (50 mg each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt average 50 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 125 g Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Haldiram's Basmati Rice Net Wt 100 g +100ml FREE",
+    "entities": [
+      [
+        24,
+        30,
+        "QUALIFIER"
+      ],
+      [
+        31,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 350 oz",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Hair Oil 20% Extra Free Net Weight 75 kg",
+    "entities": [
+      [
+        33,
+        43,
+        "QUALIFIER"
+      ],
+      [
+        44,
+        49,
+        "WEIGHT"
+      ],
+      [
+        18,
+        32,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 200 kg Daily Value: Vitamin C 45%",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "24 x 300 kg",
+    "entities": [
+      [
+        0,
+        2,
+        "COUNT"
+      ],
+      [
+        5,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Tata Milk Chocolate Net Weight 150 kg Bonus Pack",
+    "entities": [
+      [
+        20,
+        30,
+        "QUALIFIER"
+      ],
+      [
+        31,
+        37,
+        "WEIGHT"
+      ],
+      [
+        38,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 3 (200 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 g Dabur Tomato Ketchup Family Pack",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ],
+      [
+        35,
+        46,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Rated Power: 500 kW",
+    "entities": [
+      [
+        13,
+        19,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Basmati Rice Value Pack Net Wt. 250 g",
+    "entities": [
+      [
+        33,
+        40,
+        "QUALIFIER"
+      ],
+      [
+        41,
+        46,
+        "WEIGHT"
+      ],
+      [
+        22,
+        32,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net 500 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 20 fl oz (355 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Whole Wheat Atta Net Wt 300 g Special Offer",
+    "entities": [
+      [
+        24,
+        30,
+        "QUALIFIER"
+      ],
+      [
+        31,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        50,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt average 50 g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        15,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "PepsiCo Peanut Butter 20% Extra Free NET WT. 200 g",
+    "entities": [
+      [
+        37,
+        44,
+        "QUALIFIER"
+      ],
+      [
+        45,
+        50,
+        "WEIGHT"
+      ],
+      [
+        22,
+        36,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 600 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "500 g x 2",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 3 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "P&G Washing Powder New Improved Formula Net Weight 400 kg",
+    "entities": [
+      [
+        40,
+        50,
+        "QUALIFIER"
+      ],
+      [
+        51,
+        57,
+        "WEIGHT"
+      ],
+      [
+        19,
+        39,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. average 100 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        22,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 1 L",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Tomato Ketchup Special Offer Net Weight 500 kg",
+    "entities": [
+      [
+        38,
+        48,
+        "QUALIFIER"
+      ],
+      [
+        49,
+        55,
+        "WEIGHT"
+      ],
+      [
+        24,
+        37,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 2.5 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Max Power 100 W",
+    "entities": [
+      [
+        10,
+        15,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Unilever Instant Noodles Net Wt. 400 kg Jumbo Size",
+    "entities": [
+      [
+        25,
+        32,
+        "QUALIFIER"
+      ],
+      [
+        33,
+        39,
+        "WEIGHT"
+      ],
+      [
+        40,
+        50,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Coca-Cola Potato Chips 25% More Net Weight 200 g",
+    "entities": [
+      [
+        32,
+        42,
+        "QUALIFIER"
+      ],
+      [
+        43,
+        48,
+        "WEIGHT"
+      ],
+      [
+        23,
+        31,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 200 kg Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 500 g Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 12 (400 kg each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 100 kg Dietary Fibre 3.5g per serving",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 200 mg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 600 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 250 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "4 x 200 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 24 (150 g each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 150 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 8 fl oz (600 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "VOLUME"
+      ],
+      [
+        13,
+        19,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Milk Chocolate Bonus Pack Net Weight 100 kg",
+    "entities": [
+      [
+        35,
+        45,
+        "QUALIFIER"
+      ],
+      [
+        46,
+        52,
+        "WEIGHT"
+      ],
+      [
+        24,
+        34,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net 100 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Floor Cleaner NET WT. 500 g Family Pack",
+    "entities": [
+      [
+        23,
+        30,
+        "QUALIFIER"
+      ],
+      [
+        31,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. approximately 250 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        22,
+        28,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 355 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        14,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 500 L",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 16 fl oz (2 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 250 g P&G Mineral Water 50% Extra",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ],
+      [
+        31,
+        40,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 400 oz",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 75 mg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. approximately 100 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        22,
+        28,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt approximately 100 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        21,
+        27,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. ~ 150 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        10,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 10 oz",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight avg. 200 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        21,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 3 oz",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "2 x 75 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 1200 kW",
+    "entities": [
+      [
+        18,
+        25,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "50 mg x 10",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 100 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 250 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. about 200 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        14,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Nestle Milk Chocolate Value Pack Net Weight 500 kg",
+    "entities": [
+      [
+        33,
+        43,
+        "QUALIFIER"
+      ],
+      [
+        44,
+        50,
+        "WEIGHT"
+      ],
+      [
+        22,
+        32,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 800 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 600 mL",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "100 kg x 8",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Tomato Ketchup Net Wt 500 kg Value Pack",
+    "entities": [
+      [
+        22,
+        28,
+        "QUALIFIER"
+      ],
+      [
+        29,
+        35,
+        "WEIGHT"
+      ],
+      [
+        36,
+        46,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 20 fl oz (100 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 3 (250 mg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 500 kg Calories per serving: 150",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight average 50 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        19,
+        24,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 150 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 250 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 330 l",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        9,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Milk Chocolate NET WT. 400 kg Bonus Pack",
+    "entities": [
+      [
+        22,
+        29,
+        "QUALIFIER"
+      ],
+      [
+        30,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        47,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 0.5 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. avg. 250 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. avg. 200 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Coca-Cola Washing Powder Net Wt 500 kg BOGO",
+    "entities": [
+      [
+        25,
+        31,
+        "QUALIFIER"
+      ],
+      [
+        32,
+        38,
+        "WEIGHT"
+      ],
+      [
+        39,
+        43,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "6 x 150 mg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 200 kg Haldiram's Washing Powder +100ml FREE",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ],
+      [
+        41,
+        52,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 1.5 mg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight about 50 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        17,
+        22,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. about 300 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        14,
+        20,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Haldiram's Washing Powder Jumbo Size Net Weight 125 kg",
+    "entities": [
+      [
+        37,
+        47,
+        "QUALIFIER"
+      ],
+      [
+        48,
+        54,
+        "WEIGHT"
+      ],
+      [
+        26,
+        36,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 300 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Britannia Basmati Rice Net Weight 125 g 25% More",
+    "entities": [
+      [
+        23,
+        33,
+        "QUALIFIER"
+      ],
+      [
+        34,
+        39,
+        "WEIGHT"
+      ],
+      [
+        40,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 100 mL",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 300 mL",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Nestle Orange Juice Net Wt 200 kg Save 30%",
+    "entities": [
+      [
+        20,
+        26,
+        "QUALIFIER"
+      ],
+      [
+        27,
+        33,
+        "WEIGHT"
+      ],
+      [
+        34,
+        42,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (150 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Power: 10 kW",
+    "entities": [
+      [
+        7,
+        12,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. typical 250 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        22,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 75 g",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        8,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 3 (200 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. approximately 400 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        22,
+        28,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "200 g x 3",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 355 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 500 g Parle Green Tea Buy 1 Get 1 Free",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        12,
+        "WEIGHT"
+      ],
+      [
+        29,
+        45,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 5 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        13,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 5 mg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. about 250 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        14,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 2 L",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (100 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "8 x 1000 g",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "ITC Floor Cleaner NET WT. 150 g New Improved Formula",
+    "entities": [
+      [
+        18,
+        25,
+        "QUALIFIER"
+      ],
+      [
+        26,
+        31,
+        "WEIGHT"
+      ],
+      [
+        32,
+        52,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net 1000 kg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 5 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 50 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        13,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Amul Whole Wheat Atta Value Pack Net Weight 125 g",
+    "entities": [
+      [
+        33,
+        43,
+        "QUALIFIER"
+      ],
+      [
+        44,
+        49,
+        "WEIGHT"
+      ],
+      [
+        22,
+        32,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Power: 7 W",
+    "entities": [
+      [
+        7,
+        10,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET 12 fl oz (355 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "300 g x 24",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        5,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 100 oz",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 100 kg Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 32 fl oz (175 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Godrej Corn Flakes Net Wt 50 kg Extra 50g Free",
+    "entities": [
+      [
+        19,
+        25,
+        "QUALIFIER"
+      ],
+      [
+        26,
+        31,
+        "WEIGHT"
+      ],
+      [
+        32,
+        46,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 75 oz",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "3 x 400 g",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        9,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. approx. 150 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        16,
+        22,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 600 oz",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 10 (300 kg each)",
+    "entities": [
+      [
+        8,
+        10,
+        "COUNT"
+      ],
+      [
+        12,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 100 mg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 10 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Amul Mixed Fruit Jam Net Weight 50 g Extra 50g Free",
+    "entities": [
+      [
+        21,
+        31,
+        "QUALIFIER"
+      ],
+      [
+        32,
+        36,
+        "WEIGHT"
+      ],
+      [
+        37,
+        51,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Pack of 5 (125 kg each)",
+    "entities": [
+      [
+        8,
+        9,
+        "COUNT"
+      ],
+      [
+        11,
+        17,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 450 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 3 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 125 g",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 750 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 500 ml",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net 300 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (2 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 200 kg",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 150 mL",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 20 fl oz (300 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET 100 oz",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 250 kg Serving Size 30g (about 1 cup)",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "4 x 400 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 100 kg Per 100g: Energy 520 kcal, Protein 8g, Fat 25g",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 20 fl oz (600 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 400 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "3 x 300 kg",
+    "entities": [
+      [
+        0,
+        1,
+        "COUNT"
+      ],
+      [
+        4,
+        10,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 150 L",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        17,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "75 g x 2",
+    "entities": [
+      [
+        7,
+        8,
+        "COUNT"
+      ],
+      [
+        0,
+        4,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 300 g Himalaya Basmati Rice Bonus Pack",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ],
+      [
+        39,
+        49,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. approximately 125 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        22,
+        27,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Himalaya Face Cream NET WT. 125 g New Improved Formula",
+    "entities": [
+      [
+        20,
+        27,
+        "QUALIFIER"
+      ],
+      [
+        28,
+        33,
+        "WEIGHT"
+      ],
+      [
+        34,
+        54,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "250 kg x 6",
+    "entities": [
+      [
+        9,
+        10,
+        "COUNT"
+      ],
+      [
+        0,
+        6,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt 150 kg Himalaya Tomato Ketchup Value Pack",
+    "entities": [
+      [
+        0,
+        6,
+        "QUALIFIER"
+      ],
+      [
+        7,
+        13,
+        "WEIGHT"
+      ],
+      [
+        38,
+        48,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 600 mg",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Power Consumption 40 kW",
+    "entities": [
+      [
+        18,
+        23,
+        "POWER"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 450 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Qty 500 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. 1.5 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Contents 1 l",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        12,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "NET WT. ~ 100 kg",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        10,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 200 g",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Vol. 150 ml",
+    "entities": [
+      [
+        0,
+        8,
+        "QUALIFIER"
+      ],
+      [
+        9,
+        15,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Content 200 mL",
+    "entities": [
+      [
+        0,
+        11,
+        "QUALIFIER"
+      ],
+      [
+        12,
+        18,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Net Quantity 1000 g",
+    "entities": [
+      [
+        0,
+        12,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        19,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "NET 64 fl oz (300 ml)",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        12,
+        "VOLUME"
+      ],
+      [
+        14,
+        20,
+        "VOLUME"
+      ]
+    ]
+  },
+  {
+    "text": "Nestle Washing Powder Net Wt. 50 kg 20% Extra Free",
+    "entities": [
+      [
+        22,
+        29,
+        "QUALIFIER"
+      ],
+      [
+        30,
+        35,
+        "WEIGHT"
+      ],
+      [
+        36,
+        50,
+        "PROMO"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. avg. 250 g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        13,
+        18,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Weight 10 kg",
+    "entities": [
+      [
+        0,
+        10,
+        "QUALIFIER"
+      ],
+      [
+        11,
+        16,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net 1000 mg",
+    "entities": [
+      [
+        0,
+        3,
+        "QUALIFIER"
+      ],
+      [
+        4,
+        11,
+        "WEIGHT"
+      ]
+    ]
+  },
+  {
+    "text": "Net Wt. 200 kg Per 100ml: Sugar 11g",
+    "entities": [
+      [
+        0,
+        7,
+        "QUALIFIER"
+      ],
+      [
+        8,
+        14,
+        "WEIGHT"
+      ]
+    ]
+  }
+]
